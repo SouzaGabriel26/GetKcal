@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Página de Cálculo calórico, feita com o objetivo de reforçar o aprendizado sobre formulários
 
-Live Preview:
+Live Preview: https://souzagabriel26.github.io/GetKcal/
 
 ## 🎨 Inspiração:
 
@@ -40,4 +40,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com ♥ by Gabriel Alves
+Feito por Gabriel Alves
